@@ -13,8 +13,8 @@ it is done in unity using the fungus plugin for the dialogue and the standard as
 
 ### The team
 
-*Elena Igumnova - designer 
-*Marco Cristoforetti - programmer
-*Kevin Karl Walter - environmental artist 
-*Sebastian Garena Cubillos - character artist 
+* Elena Igumnova - designer 
+* Marco Cristoforetti - programmer
+* Kevin Karl Walter - environmental artist 
+* Sebastian Garena Cubillos - character artist 
 
